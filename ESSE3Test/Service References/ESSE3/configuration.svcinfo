@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configurationSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="urn:schemas-microsoft-com:xml-wcfconfigurationsnapshot">
+  <behaviors />
+  <bindings>
+    <binding digest="System.ServiceModel.Configuration.BasicHttpBindingElement, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089:&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data name=&quot;ESSE3WSSoapBinding&quot;&gt;&lt;security mode=&quot;Transport&quot; /&gt;&lt;/Data&gt;" bindingType="basicHttpBinding" name="ESSE3WSSoapBinding" />
+    <binding digest="System.ServiceModel.Configuration.BasicHttpBindingElement, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089:&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data name=&quot;ESSE3WSSoapBinding1&quot; /&gt;" bindingType="basicHttpBinding" name="ESSE3WSSoapBinding1" />
+  </bindings>
+  <endpoints>
+    <endpoint normalizedDigest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;https://didattica.unicam.it/services/ESSE3WS&quot; binding=&quot;basicHttpBinding&quot; bindingConfiguration=&quot;ESSE3WSSoapBinding&quot; contract=&quot;ESSE3.Esse3Ws&quot; name=&quot;ESSE3WS&quot; /&gt;" digest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;https://didattica.unicam.it/services/ESSE3WS&quot; binding=&quot;basicHttpBinding&quot; bindingConfiguration=&quot;ESSE3WSSoapBinding&quot; contract=&quot;ESSE3.Esse3Ws&quot; name=&quot;ESSE3WS&quot; /&gt;" contractName="ESSE3.Esse3Ws" name="ESSE3WS" />
+  </endpoints>
+</configurationSnapshot>
